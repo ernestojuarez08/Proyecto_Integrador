@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "matricula": "25030161",
+        "propietario": "Ernesto Juarez",
+        "tipo": "Alumno",
+        "modelo": "Nissan Versa",
+        "color": "Blanco",
+        "activo": true
+    },
+    {
+        "matricula": "23016713",
+        "propietario": "María López",
+        "tipo": "Docente",
+        "modelo": "Mazda 3",
+        "color": "Rojo",
+        "activo": true
+    },
+    {
+        "matricula": "25030157",
+        "propietario": "Alexander Cervantes",
+        "tipo": "Administrativo",
+        "modelo": "Honda Civic",
+        "color": "Negro",
+        "activo": false
+    }
+]

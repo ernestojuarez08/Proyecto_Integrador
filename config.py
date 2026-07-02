@@ -4,8 +4,10 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 
 # Archivos JSON
-RUTA_VEHICULOS = BASE_DIR / "datos" / "vehiculos.json"
-RUTA_HISTORIAL = BASE_DIR / "datos" / "historial.json"
+DATA_DIR = BASE_DIR / "datos"
+
+VEHICULOS_JSON = DATA_DIR / "vehiculos.json"
+REGISTROS_JSON = DATA_DIR / "registros.json"
 
 # Informacion del sistema
 NOMBRE_SISTEMA = "SmartGate IA"
