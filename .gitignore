@@ -1,11 +1,13 @@
+env/
 venv/
 __pycache__/
 *.pyc
 
 .vscode/
-
 .ideal/
 
 datos/*.back
-
 *.log
+
+#Exclusivo para la Mac de Alex
+.DS_Store
