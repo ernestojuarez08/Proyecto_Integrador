@@ -4,6 +4,7 @@ from modelos.registro import RegistroAcceso
 class SmartGate:
     def __init__(self):
         self.bd = BaseDatos()
+        
     def procesar_acceso(self, matricula):
         vehiculo = self.bd.buscar_matricula(matricula)
         if vehiculo is None:
