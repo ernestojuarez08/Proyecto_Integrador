@@ -1,0 +1,1808 @@
+[
+    {
+        "fecha_hora": "2026-07-04 23:33:13",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-01 04:45:58",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 09:35:20",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 02:29:42",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 10:29:13",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 09:10:37",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 06:40:49",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 19:44:39",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 19:31:07",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 20:15:32",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 14:32:28",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 15:38:44",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 13:15:04",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 19:22:01",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 10:39:00",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-01 18:57:48",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 20:02:03",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 03:43:08",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-01 08:29:58",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 07:38:15",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 15:20:55",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-01 16:58:10",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 05:32:20",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 08:23:44",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-01 13:43:27",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 03:52:48",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 06:56:35",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 02:22:10",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 04:03:34",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 23:55:21",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 03:29:46",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-01 18:35:27",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-01 17:28:04",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-01 10:31:11",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 22:34:24",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 20:53:18",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 16:43:19",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-01 12:31:03",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 05:16:57",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 02:21:37",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 03:01:12",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 18:55:53",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-01 13:17:25",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 21:29:34",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 20:07:08",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 05:49:08",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 12:41:51",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-01 03:19:34",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 11:00:07",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 14:37:14",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 11:37:39",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 15:02:07",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-01 01:21:07",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 13:40:01",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-01 12:18:18",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-01 22:28:53",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 02:45:51",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 19:25:36",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 01:13:00",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-01 00:05:43",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 18:13:50",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-01 09:58:18",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-01 22:56:19",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-01 13:56:45",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 14:56:08",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 12:23:59",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 01:49:07",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-01 02:59:49",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 06:55:32",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-01 21:39:52",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 18:59:47",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 15:27:59",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 14:37:19",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 15:10:41",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-01 09:26:13",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 11:15:50",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 04:41:24",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 03:04:00",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 03:49:28",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 13:39:27",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-01 02:25:50",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 22:15:36",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 09:42:13",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-01 02:17:44",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-01 17:24:31",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-01 02:03:17",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 02:58:21",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 03:07:27",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 09:38:50",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 07:10:01",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-01 05:19:59",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 14:12:22",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 10:49:25",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-01 16:40:28",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 11:42:00",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 17:50:09",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 12:23:44",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-01 19:37:39",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-01 23:28:43",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-01 07:09:45",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-01 12:13:13",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 15:55:02",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-02 11:46:01",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 08:30:17",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 18:51:30",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 02:15:35",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 19:12:52",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 10:07:54",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 05:12:07",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 22:15:51",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 21:45:31",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 17:18:15",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 04:06:40",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 05:00:07",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 15:17:06",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 05:52:37",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 10:29:05",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 00:12:23",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 14:16:01",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 17:26:59",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 00:25:15",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 02:07:54",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 15:54:52",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 06:47:11",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 15:45:47",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 17:59:04",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 19:31:15",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 14:15:27",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 00:01:18",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-02 17:59:43",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 11:57:59",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 17:05:36",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 03:40:53",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 00:58:00",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 03:38:18",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-02 06:11:58",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 20:06:02",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 04:50:04",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 23:45:44",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 18:52:18",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 02:04:00",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 15:33:33",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 05:52:37",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 18:33:11",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-02 06:34:13",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 00:54:05",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 03:06:43",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 20:07:47",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 19:29:38",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 09:34:20",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-02 16:03:37",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 07:54:59",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 08:59:22",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 08:27:40",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 20:04:09",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 06:56:24",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 20:38:55",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 22:17:34",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-02 18:27:01",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 16:17:41",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 09:55:25",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-02 23:48:52",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 13:19:24",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 23:58:49",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 00:12:48",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 13:03:02",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 23:24:59",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 17:31:18",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 20:48:01",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-02 06:23:09",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 23:47:20",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 17:27:25",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 02:42:59",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 04:18:21",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 01:51:14",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 16:38:34",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 21:39:18",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 17:10:13",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 03:36:22",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 20:19:51",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 03:53:45",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 10:47:52",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 09:44:19",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 18:30:16",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 09:54:41",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 09:22:09",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 09:12:35",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 06:29:41",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 05:19:35",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-02 04:31:32",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 17:46:39",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 23:17:54",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-02 09:11:34",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-02 19:38:40",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 00:41:56",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-02 22:52:04",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 05:20:26",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 09:39:59",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 01:00:30",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 12:01:44",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-02 02:26:54",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 16:59:17",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-03 11:57:18",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 11:19:29",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 08:40:10",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-03 07:11:41",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 10:24:54",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 00:38:22",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 23:46:27",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 23:18:12",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-03 11:44:51",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 10:54:20",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 14:54:50",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 18:25:42",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 13:23:20",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-03 08:15:32",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-03 03:02:17",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 19:59:58",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 19:03:00",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 08:03:31",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 17:07:13",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-03 03:15:20",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 16:47:24",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 07:34:17",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 10:38:06",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-03 20:11:37",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 20:15:29",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 09:05:56",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 14:42:22",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-03 09:06:59",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 00:46:27",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 08:55:14",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 10:55:23",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-03 06:09:01",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-03 00:22:43",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 17:52:41",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 12:52:48",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 22:28:15",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-03 09:01:24",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-03 00:19:08",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 13:20:41",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 12:36:07",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 12:15:25",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 08:06:06",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 16:11:02",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 18:47:39",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 00:44:05",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 11:51:07",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 13:50:26",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 12:48:32",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-03 19:39:49",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 04:07:57",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 16:51:16",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 12:47:57",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 17:46:02",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-03 09:44:01",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 21:38:24",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 06:20:41",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-03 22:54:49",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 13:44:49",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-03 23:14:52",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 08:01:00",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 18:47:54",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-03 04:55:02",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 06:33:06",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 14:26:06",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 07:55:05",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 19:50:50",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-03 17:02:02",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-03 21:29:28",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-03 02:24:46",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-03 08:42:52",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 16:41:46",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 21:42:55",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 10:42:39",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 15:49:00",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 23:24:55",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 03:41:08",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 04:22:42",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 02:31:19",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 15:12:37",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 04:48:19",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 00:24:10",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 05:35:42",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-03 11:06:06",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 06:41:55",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 22:54:50",
+        "matricula": "25030157",
+        "autorizado": false,
+        "motivo": "Rechazado - Vehiculo INACTIVO (Propietario: Alexander Cervantes)"
+    },
+    {
+        "fecha_hora": "2026-07-03 04:53:06",
+        "matricula": "25030161",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Alumno (Propietario: Ernesto Juarez)"
+    },
+    {
+        "fecha_hora": "2026-07-03 20:34:02",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 23:30:14",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 18:56:27",
+        "matricula": "XYZ999X",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 21:57:27",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 15:47:59",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 14:56:23",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 03:07:44",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 13:05:49",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 13:58:16",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 05:55:51",
+        "matricula": "23016713",
+        "autorizado": true,
+        "motivo": "Acceso concedido - Docente (Propietario: María López)"
+    },
+    {
+        "fecha_hora": "2026-07-03 22:58:06",
+        "matricula": "UNK0000",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 07:38:15",
+        "matricula": "ERR8888",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    },
+    {
+        "fecha_hora": "2026-07-03 08:26:20",
+        "matricula": "BAD1234",
+        "autorizado": false,
+        "motivo": "Vehiculo no registrado en el sistema"
+    }
+]
