@@ -22,8 +22,10 @@ print("=" * 40)
 while True:
     print("Menú de control de acceso")
     print("1. Validar Matrícula (Simulación de Entrada)")
-    print("2. Salir del Sistema")
-    opcion = input("Seleccionar una opción (1 o 3): ").strip()
+    print("2. Generar Simulación de Flujo Vehicular")
+    print("3. Ver reporte de Módulo Estadístico")
+    print("4. Cerrar Sistema")
+    opcion = input("Seleccionar una opción (1-4): ").strip()
 
     if opcion == "1":
         matricula = input("Ingresa la matrícula del vehículo: ").strip()
@@ -47,6 +49,17 @@ while True:
             print("Error, porfavor ingresar numeros enteros validos ")
 
     elif opcion == "3":
+        print("Reporte Estadístico de Smartgate IA")
+        reporte = est.calcular_metricas()
+
+        print(f"Total de accesos registrados historicos: {reporte['total']}")
+        print(f"Total de días evaluados en el historial: {reporte['dias_evaluados']}")
+        print(f"Flujo promedio de vehículos por hora: {reporte['promedio_por_hora']} autos/hr")
+        print(f"Hora con mayor tráfico (Hora Pico): {reporte['hora_mayor_trafico']}")
+        print(f"Hora con menor tráfico (Hora Valle): {reporte['hora_menor_trafico']}")
+        print("-"*40)
+
+    elif opcion == "4":
         print(f"Cerrcando {NOMBRE_SISTEMA}")
         break
 
