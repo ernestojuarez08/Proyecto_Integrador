@@ -2,6 +2,7 @@ from config import NOMBRE_SISTEMA, VERSION
 from gestores.base_datos import BaseDatos
 from modelos.smartgate import SmartGate
 from analisis.simulador import SimuladorFlujo
+from analisis.estadisticas import ModuloEstadistico
 
 print("=" * 40)
 print(f"{NOMBRE_SISTEMA} v{VERSION}")
@@ -11,6 +12,7 @@ print("=" * 40)
 bd = BaseDatos()
 gate = SmartGate()
 sim = SimuladorFlujo()
+est = ModuloEstadistico()
 
 vehiculos = bd.cargar_vehiculos()
 print(f"Vehículos cargados en el sistema: {len(vehiculos)}")
