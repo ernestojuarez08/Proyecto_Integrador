@@ -4,6 +4,7 @@ from tkinter import messagebox
 from modelos.smartgate import SmartGate
 from analisis.prediccion import SimulacionPredictiva
 from analisis.sustentabilidad import Sustentabilidad
+from analisis.reportes import GeneradorReportes
 
 class SmartGateGUI:
     def __init__(self, ventana):
@@ -16,6 +17,7 @@ class SmartGateGUI:
         self.prediccion = SimulacionPredictiva()
         self.sustentabilidad = Sustentabilidad()
         self.crear_componentes()
+        self.reporte_pdf = GeneradorReportes()
 
     def crear_componentes(self):
         titulo = tk.Label(
@@ -79,9 +81,23 @@ class SmartGateGUI:
         )
         btn_sustentable.grid(row=0, column=1, padx=10, pady=5, sticky="ew")
 
+        btn_pdf = tk.Button(
+            frame_analisis, 
+            text="📄 Exportar Historial PDF", 
+            font=("Arial", 10, "bold"),
+            bg="#2f855a",
+            fg="black",
+            command=self.disparar_pdf
+        )
+        btn_pdf.grid(row=0, column=2, padx=5, pady=5, sticky="ew")
+
+        frame_analisis.columnconfigure(0, weight=1)
+        frame_analisis.columnconfigure(1, weight=1)
+        frame_analisis.columnconfigure(2, weight=1)
+
         # Área de resultados del análisis
         self.txt_reporte_avanzado = tk.Text(frame_analisis, height=6, width=65, font=("Courier", 10), state="disabled", bg="#f7fafc")
-        self.txt_reporte_avanzado.grid(row=1, column=0, columnspan=2, pady=10)
+        self.txt_reporte_avanzado.grid(row=1, column=0, columnspan=3, pady=10, padx=5, sticky="ew")
 
         # Pie de página
         lbl_footer = tk.Label(self.ventana, text="Universidad Politécnica de Guanajuato", font=("Arial", 8), fg="gray")
@@ -142,6 +158,13 @@ class SmartGateGUI:
         )
         self.txt_reporte_avanzado.insert(tk.END, reporte_texto)
         self.txt_reporte_avanzado.config(state="disabled")
+
+    def disparar_pdf(self):
+        exito, mensaje = self.reporte_pdf.generar_pdf()
+        if exito:
+            messagebox.showinfo("Reporte Creado", mensaje)
+        else:
+            messagebox.showerror("Error", mensaje)
 
 if __name__ == "__main__":
     root = tk.Tk()
