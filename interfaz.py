@@ -9,7 +9,7 @@ class SmartGateGUI:
     def __init__(self, ventana):
         self.ventana = ventana
         self.ventana.title("SmartGate IA - Sistema de Control de Acceso")
-        self.ventana.geometry("650x550")
+        self.ventana.geometry("650x450")
         self.ventana.resizable(False, False)
 
         self.gate = SmartGate()
@@ -64,7 +64,7 @@ class SmartGateGUI:
         # Botón Predicción (Fase 7)
         btn_predecir = tk.Button(
             frame_analisis, 
-            text="🔮 Analizar Riesgo Tráfico (Fase 7)", 
+            text="🔮 Analizar Riesgo Tráfico", 
             font=("Arial", 10), 
             command=self.mostrar_prediccion
         )
@@ -73,7 +73,7 @@ class SmartGateGUI:
         # Botón Sustentabilidad (Fase 8)
         btn_sustentable = tk.Button(
             frame_analisis, 
-            text="🌱 Evaluar Eco-Sustentabilidad (Fase 8)", 
+            text="🌱 Evaluar Eco-Sustentabilidad", 
             font=("Arial", 10), 
             command=self.mostrar_sustentabilidad
         )
@@ -84,7 +84,7 @@ class SmartGateGUI:
         self.txt_reporte_avanzado.grid(row=1, column=0, columnspan=2, pady=10)
 
         # Pie de página
-        lbl_footer = tk.Label(self.ventana, text="Universidad Politécnica de Guanajuato - Ingeniería en Datos e IA", font=("Arial", 8), fg="gray")
+        lbl_footer = tk.Label(self.ventana, text="Universidad Politécnica de Guanajuato", font=("Arial", 8), fg="gray")
         lbl_footer.pack(side="bottom", pady=10)
 
     # LÓGICA DE INTERACCIÓN
