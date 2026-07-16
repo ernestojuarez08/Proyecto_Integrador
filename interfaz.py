@@ -24,7 +24,7 @@ class SmartGateGUI:
             self.ventana, 
             text="SMARTGATE IA", 
             font=("Arial", 22, "bold"), 
-            fg="#1a365d"
+            fg="#006aff"
         )
         titulo.pack(pady=15)
 
@@ -52,8 +52,8 @@ class SmartGateGUI:
         self.lbl_resultado_acceso = tk.Label(
             frame_acceso, 
             text="Esperando matrícula...", 
-            font=("Arial", 10, "italic"), 
-            fg="gray",
+            font=("Arial", 12, "italic"), 
+            fg="#5389c2",
             wraplength=550,
             justify="left"
         )
@@ -100,7 +100,7 @@ class SmartGateGUI:
         self.txt_reporte_avanzado.grid(row=1, column=0, columnspan=3, pady=10, padx=5, sticky="ew")
 
         # Pie de página
-        lbl_footer = tk.Label(self.ventana, text="Universidad Politécnica de Guanajuato", font=("Arial", 8), fg="gray")
+        lbl_footer = tk.Label(self.ventana, text="Universidad Politécnica de Guanajuato", font=("Arial", 11), fg="#0193ed")
         lbl_footer.pack(side="bottom", pady=10)
 
     # LÓGICA DE INTERACCIÓN
