@@ -8,12 +8,12 @@
         "activo": true
     },
     {
-        "matricula": "23016713",
-        "propietario": "María López",
-        "tipo": "Docente",
+        "matricula": "24030332",
+        "propietario": "Juan Arturo",
+        "tipo": "Alumno",
         "modelo": "Mazda 3",
         "color": "Rojo",
-        "activo": true
+        "activo": false
     },
     {
         "matricula": "25030157",
@@ -21,6 +21,6 @@
         "tipo": "Administrativo",
         "modelo": "Honda Civic",
         "color": "Negro",
-        "activo": false
+        "activo": true
     }
 ]
