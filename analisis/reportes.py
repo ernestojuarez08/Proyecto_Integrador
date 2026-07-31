@@ -89,7 +89,7 @@ class GeneradorReportes:
         ]]
 
         # Llenamos la tabla con el historial (últimos 50 registros para no saturar el PDF si es masivo)
-        for r in registros[-50:]:  
+        for r in registros[-200:]:  
             estado_texto = "AUTORIZADO" if r.get("autorizado") else "RECHAZADO"
             
             data_tabla.append([
